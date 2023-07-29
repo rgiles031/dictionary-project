@@ -1,8 +1,6 @@
 import React from "react";
 
 export default function synonym(props) {
-  console.log(props.synonym.synonyms);
-
   if (props.synonym.synonyms) {
     return (
       <ul className="synonym">
