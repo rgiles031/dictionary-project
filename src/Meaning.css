@@ -1,0 +1,19 @@
+.definition {
+  font-size: 18px;
+  line-height: 1.4;
+  font-weight: 500;
+}
+
+.definition p {
+  margin-bottom: 10px;
+}
+
+.example {
+  font-size: 16px;
+  opacity: 0.7;
+  font-style: italic;
+}
+
+.example p {
+  margin-bottom: 10px;
+}
