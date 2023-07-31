@@ -23,6 +23,4 @@ export default function Photos(props) {
   } else {
     return null;
   }
-
-  return <div></div>;
 }
