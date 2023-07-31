@@ -18,3 +18,8 @@ input {
   font-size: 12px;
   margin-top: 4px;
 }
+
+.photo {
+  margin-bottom: 30px;
+  border-radius: 4px;
+}
