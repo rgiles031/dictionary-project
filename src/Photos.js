@@ -13,6 +13,7 @@ export default function Photos(props) {
                   key={index}
                   src={photo.src.landscape}
                   className="img-fluid photo"
+                  alt="photo of book"
                 />
               </div>
             );
