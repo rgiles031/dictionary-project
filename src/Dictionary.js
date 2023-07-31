@@ -61,6 +61,17 @@ export default function Dictionary(props) {
         </section>
         <Results results={results} />
         <Photos photos={photos} />
+        <div className="footer">
+          This project was coded by <strong>Rosemary Giles</strong> and is{" "}
+          <a
+            href="https://github.com/rgiles031/dictionary-project"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            open-sourced on GitHub
+          </a>
+          .
+        </div>
       </div>
     );
   } else {
